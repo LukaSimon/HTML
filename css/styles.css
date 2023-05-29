@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/genshin_fatui_reveal.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container2 {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Rovinj.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container3  {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Horimiya.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container4  {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Iroh.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container5  {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Mando2.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container6  {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Nightcourt.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container7  {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Zhongli_Azhdaha.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container8  {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Miya_WP.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+.container9  {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../res/Slide/Wynter_Banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: table;
+}
+
+h1 {
+    font-size: 5rem;
+    color: white;
+    font-weight: 600;
+    font-family: 'Teko', sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
